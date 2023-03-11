@@ -10,12 +10,12 @@ To run tests, run the following link in browser
 https://umangdalvadi.github.io/Front-end-Projects/calculator/
 ```
 
-## 1. Light/Dark mode toggle
+## 2. Light/Dark mode toggle
 
 
 To run tests, run the following link in browser
 
 ```bash
-https://umangdalvadi.github.io/Front-end-Projects/Light-Dark_mode_toggle/
+https://umangdalvadi.github.io/Front-end-Projects/toggle/
 ```
 
