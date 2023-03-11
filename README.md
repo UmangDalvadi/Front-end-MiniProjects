@@ -16,6 +16,6 @@ https://umangdalvadi.github.io/Front-end-Projects/calculator/
 To run tests, run the following link in browser
 
 ```bash
-https://umangdalvadi.github.io/Front-end-Projects/Light/Dark mode toggle/
+https://umangdalvadi.github.io/Front-end-Projects/Light-Dark mode toggle/
 ```
 
