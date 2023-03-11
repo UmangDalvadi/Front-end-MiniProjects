@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            display: flex;
+            justify-content: end;
+        }
+
+        .main {
+            display: flex;
+            justify-content: start;
+            width: 100vw;
+            height: 100vh;
+        }
+
+
+        .div1 {
+            background-color: black;
+            width: 300px;
+            height: 100vh;
+
+        }
+
+        .div2 {
+            background-color: black;
+            width: 300px;
+            height: 100vh;
+
+
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="main">
+
+        <div class="div1">
+
+        </div>
+    </div>
+    <div class="div2">
+
+    </div>
+
+    <script>
+
+        let xstart = 300
+        let xend = window.innerWidth - 300
+        let xcp = 0
+        let xfv = 0
+        let xrange = xend - xstart
+
+        let ystart = 0
+        let yend = window.innerHeight
+        let ycp = 0
+        let yfv = 0
+
+
+
+        window.addEventListener('mousemove', (event) => {
+            xcp = (event.clientX) - xstart
+            xfv = xcp / xrange
+            console.log("x=" + xfv)
+
+            yfv = event.clientY / yend
+            console.log("y=" + yfv)
+        })
+    </script>
+
+</body>
+
+</html>
