@@ -16,7 +16,7 @@ https://umangdalvadi.github.io/Front-end-Projects/calculator/
 To run tests, run the following link in browser
 
 ```bash
-https://umangdalvadi.github.io/Front-end-Projects/toggle/index.html
+https://umangdalvadi.github.io/Front-end-Projects/toggle/
 ```
 
 ## 3. EYE Tracker
