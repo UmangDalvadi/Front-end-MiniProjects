@@ -8,19 +8,41 @@ nightlogo.style.display = "none"
 
 maincontainer.addEventListener('click', () => {
 
-    if (maincontainer.style.justifyContent == 'start') {
+    // if (maincontainer.style.justifyContent == 'start') {
 
-        maincontainer.style.justifyContent = 'end'
-        innercircle.style.margin = ' 3px 6px 3px 5px'
+    //     maincontainer.style.justifyContent = 'end'
+    //     innercircle.style.margin = ' 3px 6px 3px 5px'
+    //     body.style.background = "#2b2b2b"
+    //     maincontainer.style.borderColor = "white"
+    //     innercircle.style.borderColor = "white"
+    //     brightlogo.style.display = "none"
+    //     nightlogo.style.display = "block"
+    //     maincontainer.style.paddingLeft="0"
+    // }
+    if (maincontainer.style.paddingLeft == '5px') {
+
+        maincontainer.style.paddingLeft = '82px'
+        // innercircle.style.margin = ' 3px 6px 3px 5px'
         body.style.background = "#2b2b2b"
         maincontainer.style.borderColor = "white"
         innercircle.style.borderColor = "white"
         brightlogo.style.display = "none"
         nightlogo.style.display = "block"
+        // maincontainer.style.paddingLeft="0"
     }
+    // else {
+
+    //     maincontainer.style.justifyContent = 'start'
+    //     body.style.background = "aliceblue"
+    //     maincontainer.style.borderColor = "black"
+    //     innercircle.style.borderColor = "black"
+    //     nightlogo.style.display = "none"
+    //     brightlogo.style.display = "block"
+    // }
     else {
 
-        maincontainer.style.justifyContent = 'start'
+        // maincontainer.style.justifyContent = 'start'
+        maincontainer.style.paddingLeft = '5px'
         body.style.background = "aliceblue"
         maincontainer.style.borderColor = "black"
         innercircle.style.borderColor = "black"

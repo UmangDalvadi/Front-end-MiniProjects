@@ -10,6 +10,8 @@ body {
     align-items: center;
     height: 100vh;
     background-color:aliceblue;
+    transition: 500ms;
+
 }
 
 #maincontainer {
@@ -19,9 +21,11 @@ body {
     border-radius: 2em;
     display: flex;
     cursor: pointer;
+
     /* color: rgb(42, 39, 39); */
-    
-    /* align-items: center; */
+    padding-left: 5px;
+    align-items: center; 
+    transition: 500ms;
     /* justify-content: start; */
     
 }
@@ -35,13 +39,13 @@ body {
     /* justify-content: center; */
     /* align-items: center; */
     /* flex-direction: column; */
-    margin: 3px 0px 3px 5px;
-    /* transition-duration: 4s;
-    transition-delay: 4s;
-    transition-property: ease-in; */
+    /* margin: 3px 0px 3px 5px; */
     display: flex;
     justify-content: center;
     align-items: center;
+    /* margin-left: 1em; */
+
+    /* transition:  2s linear; */
     /* padding: 1em; */
 
 }
