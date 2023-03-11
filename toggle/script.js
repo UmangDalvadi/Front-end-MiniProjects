@@ -19,9 +19,9 @@ maincontainer.addEventListener('click', () => {
     //     nightlogo.style.display = "block"
     //     maincontainer.style.paddingLeft="0"
     // }
-    if (maincontainer.style.paddingLeft == '5px') {
+    if (maincontainer.style.paddingLeft == '0.3125em') {
 
-        maincontainer.style.paddingLeft = '82px'
+        maincontainer.style.paddingLeft = '5.125em'
         // innercircle.style.margin = ' 3px 6px 3px 5px'
         body.style.background = "#2b2b2b"
         maincontainer.style.borderColor = "white"
@@ -42,7 +42,7 @@ maincontainer.addEventListener('click', () => {
     else {
 
         // maincontainer.style.justifyContent = 'start'
-        maincontainer.style.paddingLeft = '5px'
+        maincontainer.style.paddingLeft = '	0.3125em'
         body.style.background = "aliceblue"
         maincontainer.style.borderColor = "black"
         innercircle.style.borderColor = "black"

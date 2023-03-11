@@ -10,7 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color:aliceblue;
-    transition: 500ms;
+    transition: all 500ms;
 
 }
 
@@ -23,9 +23,9 @@ body {
     cursor: pointer;
 
     /* color: rgb(42, 39, 39); */
-    padding-left: 5px;
+    padding-left: 	0.3125em;
     align-items: center; 
-    transition: 500ms;
+    transition: all 500ms;
     /* justify-content: start; */
     
 }
