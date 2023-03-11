@@ -24,4 +24,8 @@ Array.from(btn).forEach(btn => {
     })
 })
 
+input.addEventListener('click', () => {
+    alert("You are not able to type in display!")
+})
+
 
