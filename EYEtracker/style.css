@@ -5,7 +5,10 @@
 }
 
 body {
-    background-color: rgb(251, 153, 169);
+    /* background-color: rgb(251, 153, 169); */
+    background: linear-gradient(45deg, rgb(230, 111, 111), #2882cc);
+    /* background-image: url("teddybear.jpg");
+    background-size: 100vw,100vh; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,17 +16,21 @@ body {
     width: 100vw;
 }
 
+
+
 .face {
     /* border: 2px solid #d4d4d2; */
     background-color: white;
     height: 30em;
     width: 30em;
     border-radius: 50%;
-    box-shadow: 1px 2px 15px darkgray;
+    box-shadow: 1px 2px 15px rgb(46, 46, 46);
     display: flex;
     justify-content: center;
     align-items: center;
     padding-bottom: 3em;
+    /* background: linear-gradient(30deg, rgb(112, 119, 249), #0f5bea); */
+
 }
 
 .eyes {
@@ -58,7 +65,7 @@ body {
     /* height: 2em; */
     width: 32px;
     height: 32px;
-    background-color: black;
+    background-color: #303030;
     border-radius: 50%
 }
 
