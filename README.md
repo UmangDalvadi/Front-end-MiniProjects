@@ -25,6 +25,6 @@ https://umangdalvadi.github.io/Front-end-Projects/toggle/
 To run tests, run the following link in browser
 
 ```bash
-https://umangdalvadi.github.io/Front-end-Projects/mousehover/
+https://umangdalvadi.github.io/Front-end-Projects/EYEtracker/
 ```
 
