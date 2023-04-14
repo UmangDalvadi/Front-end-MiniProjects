@@ -12,7 +12,7 @@ https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/
 or
 Click [Here](https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/) to visit
 
-
+<hr>
 
 ## 2. Light/Dark mode toggle
 
@@ -24,6 +24,8 @@ https://umangdalvadi.github.io/Front-end-MiniProjects/toggle/
 ```
 or
 Click [Here](https://umangdalvadi.github.io/Front-end-MiniProjects/toggle/) to visit
+
+<hr>
 
 ## 3. EYE Tracker
 
