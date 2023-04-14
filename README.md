@@ -34,5 +34,5 @@ https://umangdalvadi.github.io/Front-end-MiniProjects/EYEtracker/
 or
 [Click Here](https://umangdalvadi.github.io/Front-end-MiniProjects/EYEtracker/)
 
-[Hello, world!](http://example.com/){target="_blank"}
+[Hello, world!](https://umangdalvadi.github.io/Front-end-MiniProjects/EYEtracker/){target="_blank"}
 
