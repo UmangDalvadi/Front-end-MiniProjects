@@ -10,7 +10,7 @@ To run tests, run the following link in browser
 https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/
 ```
 or
-[click here](https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/)
+[Click Here](https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/)
 
 ## 2. Light/Dark mode toggle
 
@@ -18,10 +18,10 @@ or
 To run tests, run the following link in browser
 
 ```bash
-https://umangdalvadi.github.io/
-Front-end-MiniProjects
-/toggle/
+https://umangdalvadi.github.io/Front-end-MiniProjects/toggle/
 ```
+or
+[Click Here](https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/)
 
 ## 3. EYE Tracker
 
@@ -29,8 +29,8 @@ Front-end-MiniProjects
 To run tests, run the following link in browser
 
 ```bash
-https://umangdalvadi.github.io/
-Front-end-MiniProjects
-/EYEtracker/
+https://umangdalvadi.github.io/Front-end-MiniProjects/EYEtracker/
 ```
+or
+[Click Here](https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/)
 
