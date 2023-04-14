@@ -10,11 +10,9 @@ To run tests, run the following link in browser
 https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/
 ```
 or
-[Click Here](https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/)
+Click [Here](https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/) to visit
 
-Click <a href="https://umangdalvadi.github.io/Front-end-MiniProjects/calculator/" 
-           target="_blank">here
-        </a> to visit Calculator.
+
 
 ## 2. Light/Dark mode toggle
 
