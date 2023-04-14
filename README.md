@@ -23,7 +23,7 @@ To run tests, run the following link in browser
 https://umangdalvadi.github.io/Front-end-MiniProjects/toggle/
 ```
 or
-[Click Here](https://umangdalvadi.github.io/Front-end-MiniProjects/toggle/)
+Click [Here](https://umangdalvadi.github.io/Front-end-MiniProjects/toggle/) to visit
 
 ## 3. EYE Tracker
 
@@ -34,6 +34,6 @@ To run tests, run the following link in browser
 https://umangdalvadi.github.io/Front-end-MiniProjects/EYEtracker/
 ```
 or
-[Click Here](https://umangdalvadi.github.io/Front-end-MiniProjects/EYEtracker/)
+Click [Here](https://umangdalvadi.github.io/Front-end-MiniProjects/EYEtracker/) to visit
 
 
